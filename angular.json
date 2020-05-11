@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "directive-pages"
+    }
+  },
+  "defaultProject": "directive-pages",
+  "cli": {
+    "analytics": "cf4db7b1-e9fa-466b-92f6-74adace039a9"
+  }
 }
